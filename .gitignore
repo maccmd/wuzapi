@@ -1,2 +1,4 @@
-dbdata
-.idea
+dbdata/
+.idea/
+files/
+wuzapi
